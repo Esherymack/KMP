@@ -55,7 +55,7 @@ void process()
 	/* Print average runtimes */
 	n = 16;
 
-	std::cout << "n \t long \t short" << std::endl;
+	std::cout << "n \t long" << std::endl;
 	std::cout << "----------------------------------------------" << std::endl;
 
 	for (int j = 0; j < i; j++)
